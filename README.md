@@ -33,11 +33,11 @@ To get started with Fire Bot, follow these steps:
     ```
 
 3. **Configure the API Key**:
-    Replace `"YOUR_API_KEY"` in the `app.ipynb` file with your actual Gemini API key.
+    Replace `"YOUR_API_KEY"` in the `app.py` file with your actual Gemini API key.
 
 4. **Run the Application**:
     ```bash
-    python app.ipynb
+    python app.py
     ```
     Open your browser and go to `http://127.0.0.1:5000` to interact with Fire Bot.
 
