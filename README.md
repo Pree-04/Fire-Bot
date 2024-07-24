@@ -33,7 +33,7 @@ To get started with Fire Bot, follow these steps:
     ```
 
 3. **Configure the API Key**:
-    Replace `"YOUR_API_KEY"` in the `app.py` file with your actual Gemini API key.
+    Replace `YOUR API KEY` in the `app.py` file with your actual Gemini API key.
 
 4. **Run the Application**:
     ```bash
